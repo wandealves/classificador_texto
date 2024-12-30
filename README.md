@@ -18,3 +18,7 @@ Neste tutorial, demonstraremos o poder do LangGraph construindo um pipeline de a
 - Resumo de Texto: Por fim, geraremos um resumo conciso do texto de entrada.
 
 Este pipeline demonstra como o LangGraph pode ser usado para criar um fluxo de trabalho modular e extensível para tarefas de processamento de linguagem natural. Ao final deste tutorial, você entenderá como construir uma aplicação baseada em grafos que pode ser facilmente modificada ou expandida para várias necessidades de análise de texto.
+
+# Código de referência
+
+Scoras Academy: https://github.com/Scoras-Academy
